@@ -94,8 +94,8 @@ descender = -234;
 id = UUID0;
 userData = {
 noodleExtremesAndInflections = 1;
-noodleRemoveOverlap = 0;
-noodleThickness = "94.0";
+noodleRemoveOverlap = 1;
+noodleThickness = "100.0";
 };
 weight = Bold;
 weightValue = 104;
@@ -14716,20 +14716,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"288 453 LINE SMOOTH",
-"316 453 OFFCURVE",
-"335 472 OFFCURVE",
-"335 500 CURVE SMOOTH",
-"335 528 OFFCURVE",
-"316 547 OFFCURVE",
-"288 547 CURVE SMOOTH",
-"57 547 LINE SMOOTH",
-"29 547 OFFCURVE",
-"10 528 OFFCURVE",
-"10 500 CURVE SMOOTH",
-"10 472 OFFCURVE",
-"29 453 OFFCURVE",
-"57 453 CURVE SMOOTH"
+"353 -1 LINE SMOOTH",
+"381 -1 OFFCURVE",
+"403 21 OFFCURVE",
+"403 49 CURVE SMOOTH",
+"403 77 OFFCURVE",
+"381 99 OFFCURVE",
+"353 99 CURVE SMOOTH",
+"286 99 LINE SMOOTH",
+"235 99 OFFCURVE",
+"199 145 OFFCURVE",
+"199 216 CURVE SMOOTH",
+"199 703 LINE SMOOTH",
+"199 731 OFFCURVE",
+"177 753 OFFCURVE",
+"149 753 CURVE SMOOTH",
+"121 753 OFFCURVE",
+"99 731 OFFCURVE",
+"99 703 CURVE SMOOTH",
+"99 216 LINE SMOOTH",
+"99 91 OFFCURVE",
+"178 -1 OFFCURVE",
+"286 -1 CURVE SMOOTH"
 );
 }
 );
@@ -15025,6 +15033,7 @@ width = 391;
 }
 );
 unicode = 0074;
+changeCount = 19;
 },
 {
 glyphname = tbar;

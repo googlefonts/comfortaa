@@ -3,11 +3,6 @@ This file provides detailed information on the Comfortaa Font Software.
 This information should be distributed along with the Comfortaa fonts and any derivative works.
 
 
-
-
-
-
-
 	Font Information / Notes from the Author:
 
 Read me V1.6 - 26/12 - 2011
@@ -56,6 +51,13 @@ If you still have questions or comments, you are more than welcome to write to m
 
 	ChangeLog:
 Please list both major and minor changes made to Comfortaa here (in case of derivative works) - most recent first.
+
+30. October 2016 (Alexei Vanyashin)
+— Version 3.000
+— Improved existing glyphs outline quality
+— Revised spacing
+— Design improvements: added overshoots and other optical compensations
+— Extended Cyrillic to GF Cyrillic Plus
 
 8. May 2013
 - Version 2.004 2013
