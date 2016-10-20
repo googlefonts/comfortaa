@@ -53084,7 +53084,6 @@ interpolationWeight = 104;
 instanceInterpolations = {
 UUID0 = 1;
 };
-isBold = 1;
 name = Bold;
 }
 );
