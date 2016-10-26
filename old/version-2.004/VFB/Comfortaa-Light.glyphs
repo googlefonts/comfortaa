@@ -1,8 +1,5 @@
 {
 .appVersion = "926";
-DisplayStrings = (
-o
-);
 copyright = "Copyright (c) 26.12.2011, Johan Aakerlund (aajohan@gmail.com), with Reserved Font Name \"Comfortaa\". This Font Software is licensed under the SIL Open Font License, Version 1.1. http://scripts.sil.org/OFL";
 customParameters = (
 {
@@ -11752,11 +11749,11 @@ layers = (
 components = (
 {
 name = T;
-transform = "{0.4500, 0, 0, 0.4000, 24, 469}";
+transform = "{0.45, 0, 0, 0.4, 24, 469}";
 },
 {
 name = M;
-transform = "{0.4500, 0, 0, 0.4000, 317, 469}";
+transform = "{0.45, 0, 0, 0.4, 317, 469}";
 }
 );
 layerId = UUID0;
