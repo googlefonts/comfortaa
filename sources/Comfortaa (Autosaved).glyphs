@@ -14513,7 +14513,7 @@ transform = "{1, 0, 0, 1, 302, 0}";
 }
 );
 layerId = UUID0;
-width = 578;
+width = 589;
 },
 {
 components = (
@@ -14530,6 +14530,7 @@ width = 544;
 }
 );
 unicode = 0133;
+changeCount = 1;
 },
 {
 color = 5;
@@ -14653,7 +14654,7 @@ transform = "{1, 0, 0, 1, -24, 0}";
 }
 );
 layerId = UUID0;
-width = 276;
+width = 287;
 },
 {
 components = (
@@ -14670,6 +14671,7 @@ width = 264;
 }
 );
 unicode = 006A;
+changeCount = 1;
 },
 {
 color = 4;
@@ -14776,7 +14778,7 @@ transform = "{0.9, 0, 0, 1, -38, 0}";
 }
 );
 layerId = UUID0;
-width = 276;
+width = 287;
 },
 {
 components = (
@@ -14793,6 +14795,7 @@ width = 264;
 }
 );
 unicode = 0135;
+changeCount = 1;
 },
 {
 color = 4;
