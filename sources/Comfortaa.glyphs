@@ -211,11 +211,11 @@ capHeight = 781;
 customParameters = (
 {
 name = winAscent;
-value = 1016;
+value = 1285;
 },
 {
 name = winDescent;
-value = 240;
+value = 276;
 },
 {
 name = typoAscender;
@@ -274,11 +274,11 @@ capHeight = 781;
 customParameters = (
 {
 name = winAscent;
-value = 1016;
+value = 1285;
 },
 {
 name = winDescent;
-value = 240;
+value = 276;
 },
 {
 name = typoAscender;
