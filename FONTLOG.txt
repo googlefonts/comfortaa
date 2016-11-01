@@ -58,6 +58,7 @@ Please list both major and minor changes made to Comfortaa here (in case of deri
 — Revised spacing
 — Design improvements: added overshoots and other optical compensations
 — Extended Cyrillic to GF Cyrillic Plus
+— Extended Latin to GF Latin Plus
 
 8. May 2013
 - Version 2.004 2013

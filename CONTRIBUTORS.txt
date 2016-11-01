@@ -9,5 +9,3 @@
 
 Johan Aakerlund <aajohan@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
-
-
