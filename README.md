@@ -13,7 +13,7 @@ I hope you will enjoy using my font!
 
 [Paypal donation page](https://www.paypal.com/dk/cgi-bin/webscr?cmd=_flow&SESSION=2VE9sFtyVTcbp-E0fO9DJfr7kwAKvgJuMDIWg2-DMgqbQHjWMnBTBTdFY48&dispatch=5885d80a13c0db1f8e263663d3faee8d4fe1dd75ca3bd4f11d72275b28239088)
 
-### Recent changes v.3.000 (Alexei Vanyashin)
+### Recent changes v.3.000 (@alexeiva)
 
 * Overall design and spacing improvements
 * Expantion to GF Latin Plus, GF Cyrillic Plus
