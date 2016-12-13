@@ -1,5 +1,5 @@
 {
-.appVersion = "934";
+.appVersion = "948";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aring
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 26.12.2011, Johan Aakerlund (aajohan@gmail.com), with Reserved Font Name \"Comfortaa\"";
+copyright = "Copyright 2011 The Comfortaa Project Authors (aajohan@gmail.com), with Reserved Font Name \"Comfortaa\".";
 customParameters = (
 {
 name = license;
@@ -40,7 +40,7 @@ value = CYRE;
 }
 );
 date = "2016-10-19 22:25:16 +0000";
-designer = "Johan Aakerlund - aajohan";
+designer = "Johan Aakerlund";
 designerURL = "http://aajohan.deviantart.com";
 familyName = Comfortaa;
 featurePrefixes = (
@@ -1299,7 +1299,7 @@ name = A;
 },
 {
 name = tildecomb.i;
-transform = "{1, 0, 0, 1, 132, 234}";
+transform = "{1, 0, 0, 1, 135, 234}";
 }
 );
 layerId = UUID0;
@@ -7659,11 +7659,11 @@ name = O;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 226, 234}";
+transform = "{1, 0, 0, 1, 236, 234}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 186, 413}";
+transform = "{1, 0, 0, 1, 196, 413}";
 }
 );
 layerId = UUID0;
@@ -21266,11 +21266,11 @@ name = o;
 },
 {
 name = tildecomb;
-transform = "{1, 0, 0, 1, 103, 0}";
+transform = "{1, 0, 0, 1, 113, 0}";
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 63, 179}";
+transform = "{1, 0, 0, 1, 73, 179}";
 }
 );
 layerId = UUID0;
