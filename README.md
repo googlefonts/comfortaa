@@ -16,7 +16,7 @@ I hope you will enjoy using my font!
 ### Recent changes v.3.000 (@alexeiva)
 
 * Overall design and spacing improvements
-* Expantion to GF Latin Plus, GF Cyrillic Plus
+* Expansion to GF Latin Plus, GF Cyrillic Plus
 
 ### License
 
