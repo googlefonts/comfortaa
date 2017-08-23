@@ -1,5 +1,5 @@
 {
-.appVersion = "976";
+.appVersion = "1057";
 DisplayStrings = (
 /equivalence
 );
@@ -10,7 +10,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Aring
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Comfortaa Project Authors (aajohan@gmail.com), with Reserved Font Name \"Comfortaa\".";
+copyright = "Copyright 2011 The Comfortaa Project Authors (https://github.com/alexeiva/comfortaa), with Reserved Font Name \"Comfortaa\".";
 customParameters = (
 {
 name = license;
@@ -71895,8 +71895,8 @@ weightClass = Light;
 {
 interpolationWeight = 78;
 instanceInterpolations = {
-"952115DE-4B60-44C8-B7C0-A1F0450151B4" = 0.590909;
-UUID0 = 0.409091;
+"952115DE-4B60-44C8-B7C0-A1F0450151B4" = 0.59091;
+UUID0 = 0.40909;
 };
 name = Regular;
 },
