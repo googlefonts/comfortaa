@@ -39,7 +39,7 @@ name = vendorID;
 value = CYRE;
 }
 );
-date = "2017-10-27 21:49:59 +0000";
+date = "2017-10-30 11:33:25 +0000";
 designer = "Johan Aakerlund";
 designerURL = "http://aajohan.deviantart.com";
 familyName = Comfortaa;
@@ -74358,5 +74358,5 @@ tH = "90";
 };
 };
 versionMajor = 3;
-versionMinor = 101;
+versionMinor = 102;
 }
