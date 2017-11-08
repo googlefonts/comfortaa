@@ -1,7 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"/acaron/ucaron/hyphentwo/leftanglebracket-math/rightanglebracket-math/commercialMinusSign"
+"a/acaron u/ucaron/hyphentwo/leftanglebracket-math/rightanglebracket-math/commercialMinusSign"
 );
 classes = (
 {
@@ -12719,6 +12719,8 @@ layerId = UUID0;
 width = 675;
 }
 );
+leftKerningGroup = o;
+rightKerningGroup = n;
 unicode = 01CE;
 },
 {
@@ -24683,6 +24685,8 @@ layerId = UUID0;
 width = 682;
 }
 );
+leftKerningGroup = u;
+rightKerningGroup = u;
 unicode = 01D4;
 },
 {
