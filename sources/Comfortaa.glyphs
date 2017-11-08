@@ -1,8 +1,5 @@
 {
 .appVersion = "1075";
-DisplayStrings = (
-"a/acaron u/ucaron/hyphentwo/leftanglebracket-math/rightanglebracket-math/commercialMinusSign"
-);
 classes = (
 {
 automatic = 1;
@@ -42,7 +39,7 @@ name = vendorID;
 value = CYRE;
 }
 );
-date = "2017-10-30 11:33:25 +0000";
+date = "2017-11-08 12:54:49 +0000";
 designer = "Johan Aakerlund";
 designerURL = "http://aajohan.deviantart.com";
 familyName = Comfortaa;
@@ -74715,5 +74712,5 @@ tH = "90";
 };
 };
 versionMajor = 3;
-versionMinor = 102;
+versionMinor = 103;
 }
