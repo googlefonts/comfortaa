@@ -245,6 +245,7 @@ value = 0;
 descender = -234;
 guideLines = (
 {
+angle = 90;
 position = "{248, 386}";
 }
 );
