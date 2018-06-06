@@ -29,6 +29,6 @@ http://scripts.sil.org/OFL
 Copyright (c) 2010, Johan Aakerlund (aajohan@gmail.com),
 with Reserved Font Name "Comfortaa".
 
-![Comforta](documentation/Comfortaa Light.png)
-![Comforta](documentation/Comfortaa Bold.png)
+![Comfortaa](/documentation/Comfortaa%20Light.png)
+![Comfortaa](/documentation/Comfortaa%20Bold.png)
 
