@@ -37,6 +37,10 @@ value = 1;
 {
 name = vendorID;
 value = CYRE;
+},
+{
+name = note;
+value = "VTT Control Program Deltas:\012\012cap height:\012Delta(-1@11, 1@12, 1@13, -1@15, 1@17, -1@19, 1@21, -1@24, 1@28)\012\012X-height:\012Delta(1@13, 1@17, 1@21, 1@28)";
 }
 );
 date = "2017-11-08 12:54:49 +0000";
