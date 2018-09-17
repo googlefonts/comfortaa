@@ -1,5 +1,5 @@
 {
-.appVersion = "1161";
+.appVersion = "1165";
 classes = (
 {
 automatic = 1;
@@ -71369,10 +71369,6 @@ anchors = (
 {
 name = _top;
 position = "{93, 547}";
-},
-{
-name = _topleft;
-position = "{212, 855}";
 }
 );
 layerId = UUID0;
@@ -71410,10 +71406,6 @@ anchors = (
 {
 name = _top;
 position = "{66, 547}";
-},
-{
-name = _topleft;
-position = "{175, 847}";
 }
 );
 layerId = "952115DE-4B60-44C8-B7C0-A1F0450151B4";
