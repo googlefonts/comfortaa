@@ -52,6 +52,11 @@ If you still have questions or comments, you are more than welcome to write to m
 	ChangeLog:
 Please list both major and minor changes made to Comfortaa here (in case of derivative works) - most recent first.
 
+8. November 2017 (Alexei Vanyashin)
+— Version 3.103
+— added glyphs ‐ǎǔ⟨⟩⁒ for CLDR language compatibility
+— fixes #11 googlefonts/comfortaa
+
 30. October 2016 (Alexei Vanyashin)
 — Version 3.000
 — Improved existing glyphs outline quality
