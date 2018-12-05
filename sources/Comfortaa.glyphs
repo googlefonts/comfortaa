@@ -1,8 +1,5 @@
 {
 .appVersion = "1141";
-DisplayStrings = (
-"/perthousand"
-);
 classes = (
 {
 automatic = 1;
@@ -105795,5 +105792,5 @@ tH = "90";
 };
 };
 versionMajor = 3;
-versionMinor = 103;
+versionMinor = 104;
 }
