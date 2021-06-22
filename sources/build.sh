@@ -37,6 +37,12 @@ done
 
 for vf in $vfs
 do
+	gftools fix-hinting $vf;
+	mv "$vf.fix" $vf;
+done
+
+for vf in $vfs
+do
 	gftools gen-stat $vf --src stat.yaml --inplace;
 done
 
