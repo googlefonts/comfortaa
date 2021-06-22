@@ -35,6 +35,11 @@ do
 	mv "$vf.fix" $vf;
 done
 
+for vf in $vfs
+do
+	gftools gen-stat $vf --src stat.yaml --inplace;
+done
+
 echo "QAing"
 gftools qa ../fonts/TTF/*-VF.ttf -gf -o ../qa --fontbakery --diffenator --diffbrowsers
 
